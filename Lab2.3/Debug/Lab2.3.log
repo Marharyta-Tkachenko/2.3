@@ -1,0 +1,6 @@
+﻿  2.3.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab2.3\Lab2.3\2.3.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Complex.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab2.3\Lab2.3\Complex.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  Lab2.3.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Lab2.3\Debug\Lab2.3.exe

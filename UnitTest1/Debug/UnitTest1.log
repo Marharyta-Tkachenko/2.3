@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab2.3\Lab2.3\Complex.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab2.3\UnitTest1\UnitTest1.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab2.3\UnitTest1\UnitTest1.cpp(19,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Student\ Tkachenko.Marharyta.IK11\Lab2.3\Debug\UnitTest1.lib and object C:\Student\ Tkachenko.Marharyta.IK11\Lab2.3\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Lab2.3\Debug\UnitTest1.dll
